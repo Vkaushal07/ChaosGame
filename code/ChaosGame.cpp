@@ -24,7 +24,7 @@ int main()
 
     // FONT + TEXT (requirement)
     Font font;
-    if (!font.loadFromFile("fonts/KOMIKAP_.ttf"))
+    if (!font.loadFromFile("KOMIKAP_.ttf"))
     {
         cout << "Error loading font\n";
     }
